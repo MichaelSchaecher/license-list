@@ -1,24 +1,16 @@
-The following text is from https://opensource.org/licenses
-Downloaded on Mar-15-2016
+# License List
 
-From the page:
-  Opensource.org site content is licensed under a Creative Commons
-  Attribution 4.0 International License
+This repository is a collection of commonly used open source licenses. It provides easy access to license texts for reference and inclusion in your projects.
 
-Popular Licenses:
-=================
-The following OSI-approved licenses are popular, widely used, or have strong
-communities (as defined in the 2006 Proliferation Report):
+## Contents
 
-- Apache License 2.0
-- BSD 3-Clause "New" or "Revised" license
-- BSD 2-Clause "Simplified" or "FreeBSD" license
-- GNU General Public License (GPL)
-- GNU Library or "Lesser" General Public License (LGPL)
-- MIT license
-- Mozilla Public License 2.0
-- Common Development and Distribution License
-- Eclipse Public License
+- Popular open source licenses
+- Ready-to-use license templates
 
+## Usage
 
+Browse the repository to find and use the license that best fits your project.
 
+## Contributing
+
+Contributions to expand and update the license collection are welcome.
